@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/298-abbyy-
 x-kinRank: "8"
 x-alexaRank: "430045"
 tags: ABBYY Cloud OCR SDK
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/abbyy-cloud-ocr-sdk/master/_listings/abbyy-cloud-ocr-sdk/apis.md
 specificationVersion: "0.14"
 apis: []
